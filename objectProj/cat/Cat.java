@@ -1,4 +1,4 @@
-package objectProj.animal;
+package objectProj.cat;
 
 /**
  * 宠物猫类(Class)

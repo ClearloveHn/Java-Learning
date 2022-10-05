@@ -1,4 +1,4 @@
-package objectProj.animal;
+package objectProj.cat;
 
 public class CatTest {
     public static void main(String[] args) {

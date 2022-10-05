@@ -1,4 +1,4 @@
-package objectProj.animal.student;
+package objectProj.student;
 
 public class PersonTest {
     public static void main(String[] args) {
