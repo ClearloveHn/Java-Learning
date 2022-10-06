@@ -1,4 +1,4 @@
-package work;
+package objectProj.work;
 
 /**
  * 方法重写:

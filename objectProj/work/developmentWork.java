@@ -1,4 +1,4 @@
-package work;
+package objectProj.work;
 
 public class developmentWork extends Work{
     private int code;

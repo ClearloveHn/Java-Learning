@@ -1,4 +1,4 @@
-package work;
+package objectProj.work;
 
 public class TestWork extends Work{
     private int TestCase;
