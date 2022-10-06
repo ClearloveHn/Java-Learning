@@ -1,4 +1,4 @@
-package animal;
+package objectProj.animal;
 
 public class Dog extends Animal {
     private String sex;

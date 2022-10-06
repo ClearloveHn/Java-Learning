@@ -1,4 +1,4 @@
-package animal;
+package objectProj.animal;
 
 public class Animal {
     private String name;

@@ -1,4 +1,4 @@
-package animal;
+package objectProj.animal;
 
 public class Cat extends Animal {
     private double weight; //
