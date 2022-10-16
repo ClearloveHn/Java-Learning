@@ -22,7 +22,7 @@ public class test {
          * 1.子类引用指向父类对象,此处必须强转,可以调用子类特有的方法
          * 2.必须满足转型条件
          */
-        Cat cat = (Cat) two;
+        Cat cat = (Cat) one;
         cat.eat();
         cat.run();
     }
